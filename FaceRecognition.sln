@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceRecognition", "FaceRecognition\FaceRecognition.csproj", "{A94A5682-CE70-4793-9146-636A15E65E3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A94A5682-CE70-4793-9146-636A15E65E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94A5682-CE70-4793-9146-636A15E65E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94A5682-CE70-4793-9146-636A15E65E3B}.Debug|x86.ActiveCfg = Debug|x86
+		{A94A5682-CE70-4793-9146-636A15E65E3B}.Debug|x86.Build.0 = Debug|x86
+		{A94A5682-CE70-4793-9146-636A15E65E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94A5682-CE70-4793-9146-636A15E65E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A94A5682-CE70-4793-9146-636A15E65E3B}.Release|x86.ActiveCfg = Release|x86
+		{A94A5682-CE70-4793-9146-636A15E65E3B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E483405-F099-4735-A7A6-FF388AE741B2}
+	EndGlobalSection
+EndGlobal
